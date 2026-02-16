@@ -1,0 +1,1 @@
+For this homework assignmemt, I used Git and Github to practice collobaration with teammates and branch management. I created a personal page and worked with branches, while collaborating with classmates.
